@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tags on nixzusagen</title>
+    <link>https://www.nixzusagen.de/tags/</link>
+    <description>Recent content in tags on nixzusagen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nixzusagen.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>musik</title>
+      <link>https://www.nixzusagen.de/tags/musik/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nixzusagen.de/tags/musik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>archive</title>
+      <link>https://www.nixzusagen.de/tags/archive/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nixzusagen.de/tags/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bunny</title>
+      <link>https://www.nixzusagen.de/tags/bunny/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nixzusagen.de/tags/bunny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nature</title>
+      <link>https://www.nixzusagen.de/tags/nature/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nixzusagen.de/tags/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>people</title>
+      <link>https://www.nixzusagen.de/tags/people/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nixzusagen.de/tags/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>space</title>
+      <link>https://www.nixzusagen.de/tags/space/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nixzusagen.de/tags/space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://www.nixzusagen.de/tags/work/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nixzusagen.de/tags/work/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
