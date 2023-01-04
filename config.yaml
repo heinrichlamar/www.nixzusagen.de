@@ -1,0 +1,67 @@
+baseURL: https://www.nixzusagen.de
+title: nixzusagen
+defaultContentLanguage: 'de'
+theme: eternity
+
+params:
+  image: /images/banner.png
+  subtitle: Rap und so
+  #copyright: All rights reserved. # todo: set your copyright type.
+  #author: Lovely Author # todo: set your full name.
+  dontShowSource: true
+  portfolio:
+    columns:
+      desktop:
+        nature: 4
+        archive: 6
+        people: 2
+        default: 3
+      mobile:
+        default: 2
+        archive: 3
+        people: 1
+  socials:
+    - icon: 'fab fa-instagram fa-lg'
+      url: 'https://www.instagram.com/heinrichlamar'
+    - icon: 'fab fa-spotify fa-lg'
+      url: 'https://open.spotify.com/artist/4KvRMQIUey6dcwIIngpBjX?si=ifkPLPV_Sw2e_HbL4orIVg'
+    - icon: 'fab fa-bandcamp fa-lg'
+      url: 'https://drikone.bandcamp.com'
+    - icon: 'fab fa-soundcloud fa-lg'
+      url: 'https://soundcloud.com/schillisch'
+  homepage: "/home" # homepage link, mostly same with menu.main[0]
+  specialPages:
+    - work
+    - archive
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  plausible: '' # todo: set your plausible id.
+  disableRadius: false
+  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: false
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  work: ":filename/"
+
+menu:
+  main:
+    - name: start
+      url: /home/
+      weight: 1
+    - name: musik
+      url: /releases/
+      weight: 2
+    - name: blog
+      url: /blog/
+      weight: 3
+    - name: kontakt
+      url: /contact/
+      weight: 4
