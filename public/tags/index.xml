@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on nixzusagen</title>
+    <link>http://www.nixzusagen.de/tags/</link>
+    <description>Recent content in Tags on nixzusagen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 13 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.nixzusagen.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Single</title>
+      <link>http://www.nixzusagen.de/tags/single/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.nixzusagen.de/tags/single/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solo</title>
+      <link>http://www.nixzusagen.de/tags/solo/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.nixzusagen.de/tags/solo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DrikOne &amp; AdriNalin</title>
+      <link>http://www.nixzusagen.de/tags/drikone-adrinalin/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.nixzusagen.de/tags/drikone-adrinalin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EP</title>
+      <link>http://www.nixzusagen.de/tags/ep/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.nixzusagen.de/tags/ep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature</title>
+      <link>http://www.nixzusagen.de/tags/feature/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.nixzusagen.de/tags/feature/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
