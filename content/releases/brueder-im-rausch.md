@@ -16,7 +16,7 @@ Splitvideo zu "Brüder in der Wut" und "Gegenwehr" auf [YouTube](https://www.you
 
 # Beschreibung
 
-Im frühen Sommer 2022 saßen Adrian und ich nach einer alkoholreichen Nacht bei mir im Zimmer und haben Beats gehört. Noch am selben Nachmittag ist [Gegenwehr](https://open.spotify.com/track/3VNhbTUEmOgTFI7b63MCdZ?si=34109cf7cf2240d3) entstanden. Und auch die anderen beiden Songs speisen sich aus dem Gefühl dieses Tages, das sich wie ein roter Faden durch die EP zieht. Es geht um die Nacht, um den Rausch, um Wut und Aggression, aber auch um Melancholie und Zweifel, die dich am nächsten Morgen mit Ansage in die Mange nehmen.
+Im Frühsommer 2022 saßen Adrian und ich nach einer alkoholreichen Nacht bei mir im Zimmer und haben Beats gehört. Noch am selben Nachmittag ist [Gegenwehr](https://open.spotify.com/track/3VNhbTUEmOgTFI7b63MCdZ?si=34109cf7cf2240d3) entstanden. Und auch die anderen beiden Songs speisen sich aus dem Gefühl dieses Tages, das sich wie ein roter Faden durch die EP zieht. Es geht um die Nacht, um den Rausch, um Wut und Aggression, aber auch um Melancholie und Zweifel, die dich am nächsten Morgen mit Ansage in die Mange nehmen.
 
 # Credits
 

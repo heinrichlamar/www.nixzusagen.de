@@ -31,4 +31,4 @@ Beats: [G-Kani](https://www.instagram.com/gkanibeats/), [Pirec Beatz](https://ww
 Cuts: [a guy called criz](https://www.instagram.com/a_guy_called_criz/)    
 Mix/Master: [Skipper](https://www.instagram.com/skipperoriginal/)  
 Cover: [Sarah Böttcher](https://www.instagram.com/sarahboettcher_/)  
-Videos: [Yuto (Kunstfabrik)](https://www.instagram.com/yuto_kunstfabrik/)  
+Videos: [Yuto](https://www.instagram.com/yuto_kunstfabrik/)  
