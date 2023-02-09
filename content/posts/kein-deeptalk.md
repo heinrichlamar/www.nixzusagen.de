@@ -6,15 +6,15 @@ tags:
     - Feature
 ---
 
-# Links
+## Links
 
 Hörbar auf [Spotify](https://open.spotify.com/track/1rupugN5REIGtNwSywhleq?si=50d6bf6eb7c44b18) und vielen weiteren Streaming-Anbietern.
 
-# Beschreibung
+## Beschreibung
 
 Feature von AdriNalin und mir mit SIC. Die unterschiedlichen Konnotationen zu dem Begriff "Deeptalk" haben zu dem Titel geführt. 
 
-# Credits
+## Credits
 
 Rap/Text: [AdriNalin](https://www.instagram.com/adrinalin_endlos/), DrikOne, [SIC](https://www.instagram.com/sicest_everseen/)  
 Beat: DBeatz

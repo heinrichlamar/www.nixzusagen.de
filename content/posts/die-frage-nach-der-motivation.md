@@ -6,15 +6,15 @@ tags:
     - Solo
 ---
 
-# Links
+## Links
 
 Hörbar auf [Spotify](https://open.spotify.com/track/4Gdv901ZcAgsewNUg5WZNi?si=fa7f8dccd3df4297), [Bandcamp](https://drikone.bandcamp.com/track/die-frage-nach-der-motivation) und vielen anderen Streaming-Anbietern.
 
-# Beschreibung
+## Beschreibung
 
 Inwieweit kämpfen wir wirklich für die Menschen, für die wir vorgeben zu kämpfen und inwieweit geht es eigentlich nur um uns selbst? Tja, kein Plan, aber hört den Track!
 
-# Credits
+## Credits
 
 Rap/Text: DrikOne  
 Beat: [JaRec](https://soundcloud.com/jarek-polanski)  

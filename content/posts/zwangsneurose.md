@@ -6,16 +6,16 @@ tags:
     - Solo
 ---
 
-# Links
+## Links
 Hörbar auf [Spotify](https://open.spotify.com/track/6Kre0n1I4yVqz9Ihhn6TcU?si=0fc70a906c904177), [Bandcamp](https://drikone.bandcamp.com/track/zwangsneurose) und vielen anderen Streaming-Anbietern.
 
 Selfmade-Video auf [YouTube](https://www.youtube.com/watch?v=bxnyfQjEbJA).
 
-# Beschreibung
+## Beschreibung
 
 Neoliberale wälzen gerne alle Verantwortung auf's Individuum ab, aber ich frag mich, auf welcher Ebene wir wirklich Kontrolle über oder Einfluss auf die Geschicke dieser Welt haben. Wir steuern auf 'ne Klimakatastrophe zu, aber irgendwie wird meistens nur gelabert. Tja, also bissle Wut rauslassen.
 
-# Credits
+## Credits
 
 Rap/Text: DrikOne  
 Beat: [locoaufder808](https://www.youtube.com/channel/UCVQrDzGJO7Z4K0BaPONwe8w/videos?app=desktop)  

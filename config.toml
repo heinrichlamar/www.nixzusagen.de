@@ -50,5 +50,5 @@ theme = 'nixzusagen'
 
     [[menu.main]]
     name = "Diskografie"
-    url = "/releases"
+    url = "/posts"
     weight = 2

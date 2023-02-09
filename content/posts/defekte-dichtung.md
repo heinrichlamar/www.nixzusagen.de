@@ -6,15 +6,15 @@ tags:
     - Feature
 ---
 
-# Links
+## Links
 
 Hörbar auf [Spotify](https://open.spotify.com/track/7s5TqwSCenfdj0M2zywY19?si=4d69b658b2104da7), [Bandcamp](https://verschallertan.bandcamp.com/track/defekte-dichtung-mit-drikone) und vielen anderen Streaming-Anbietern
 
-# Beschreibung
+## Beschreibung
 
 Hab Vau'st über SoundCloud kennengelernt und nach 'nem Beat gefragt. Anschließend hat er gefragt, ob wir nicht einen gemeinsamen Track draus machen sollen. Und joa, dat isser. Großen Respekt an den Brudi, denn außer meinem Part hat er alles gemacht.
 
-# Credits
+## Credits
 
 Rap/Text: [Vau'st](https://www.instagram.com/vau.st/), DrikOne  
 Beat: [Vau'st](https://www.instagram.com/vau.st/)  

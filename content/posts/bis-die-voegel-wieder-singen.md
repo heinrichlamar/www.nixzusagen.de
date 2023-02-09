@@ -6,18 +6,18 @@ tags:
     - Solo
 ---
 
-# Links
+## Links
 
 Hörbar auf [Spotify](https://open.spotify.com/track/0tebPpN9ly1ymSdm9cps9A?si=c111c3dcded04588), [Bandcamp](https://drikone.bandcamp.com/track/bis-die-v-gel-wieder-singen) und vielen anderen Streaming-Anbietern.
 
 Selfmade-Video auf [YouTube](https://www.youtube.com/watch?v=iSatO9j-Zyg).
 
-# Beschreibung
+## Beschreibung
 
 Neuer (& kurzer) Song für zwischendurch. Auch auf Spotify sowie auf Bandcamp zum kostenlosen Download.
 Hab mal versucht alles in Eigenregie zu machen, vom Beat über Mixing/Mastering bis hin zu Cover und Video. Hoffe, mir ist das so einigermaßen gelungen. Ciao.
 
-# Credits
+## Credits
 
 Rap/Text: DrikOne  
 Beat: DrikOne  
