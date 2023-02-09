@@ -1,0 +1,52 @@
+baseURL = 'http://www.nixzusagen.de'
+languageCode = 'de-de'
+title = 'nixzusagen'
+theme = 'nixzusagen'
+
+[params]
+
+    description = 'Beats bauen und Texte schreiben tue ich schon seit geraumer Zeit und vor einigen Jahre habe ich mir dann auch endlich ein Mic gekauft (Rode NT1A, der Klassiker). Aber den Schritt, mal was rauszubringen, habe ich nie gewagt. Das hat sich geändert, als ich im Sommer 2019 Adrian aka [AdriNalin](https://www.instagram.com/adrinalin_endlos/) kennengelernt habe und wir begonnen haben, gemeinsam Mucke zu machen. Ende 2020 erschien dann der erste Track, auf dem ich zu hören bin, auf dessen "Fahrtkosten & Freibier EP". Die Corona-Zeit war zwar absolut beschissen, aber hat auch Raum gelassen, um Musik zu machen und so gab es seitdem einige Singles und zwei EPs gemeinsam mit Adrian. Und nun folgt die erste Solo-EP! Die Texte sowie die Soundästhetik bewegen sich dabei meist zwischen Melancholie und Wut und die Beats reichen von klassichen Boom-Bap Brettern bis zu moderneren Dingern. Checkts mal aus!'
+
+    logo = "cover_ohne_schriftzug.png"
+
+    colortheme = "dark" # dark, light, white, or classic
+    
+    mainSectionTitle = "Letzte Releases"
+
+    showProjectsList = true
+    ProjectsTitle = "Live-Termine 2023"
+
+    tagsOverview = false
+
+    tocInline = false
+
+    [[params.social]]
+    name = "instagram"
+    link = "https://www.instagram.com/heinrichlamar/"
+
+    [[params.social]]
+    name = "spotify"
+    link = "https://open.spotify.com/artist/4KvRMQIUey6dcwIIngpBjX?si=ifkPLPV_Sw2e_HbL4orIVg"
+
+    [[params.social]]
+    name = "bandcamp"
+    link = "https://drikone.bandcamp.com/"
+
+    [[params.social]]
+    name = "youtube"
+    link = "https://www.youtube.com/@heinrichlamar3679"
+
+    [[params.social]]
+    name = "soundcloud"
+    link = "https://soundcloud.com/schillisch"
+
+    # Main menu which appears below site header.
+    [[menu.main]]
+    name = "Start"
+    url = "/"
+    weight = 1
+
+    [[menu.main]]
+    name = "Diskografie"
+    url = "/releases"
+    weight = 2

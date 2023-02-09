@@ -1,0 +1,3 @@
+[submodule "themes/nixzusagen"]
+	path = themes/nixzusagen
+	url = https://github.com/heinrichlamar/nixzusagen.git
