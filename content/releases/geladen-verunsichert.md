@@ -17,7 +17,7 @@ Videos gibt es zu den Tracks [Der Versuch](https://www.youtube.com/watch?v=cssbT
 #### Geladen & Verunsichert EP
 
 Auf unserer EP "Geladen & Verunsichert" geht es um die Schwierigkeit, sich in einer hochkomplexen Welt zurechtzufinden sowie die Verachtung für all jene, die es sich zu einfach machen, sich zu sicher sind oder die sich für zu wichtig nehmen.  
-Soundtechnische gibt es neben kassischem Boom-Bap auch vereinzelt Abstecher hin zu moderneren Beats.
+Soundtechnisch gibt es neben kassischem Boom-Bap auch vereinzelt Abstecher hin zu moderneren Beats.
 
 #### Der Versuch
 
