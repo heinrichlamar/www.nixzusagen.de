@@ -1,6 +1,6 @@
 ---
 title: nixzusagen EP
-date: 2023-02-10 00:00:00
+date: 2023-02-09 00:00:00
 tags:
     - EP
     - Solo
@@ -8,7 +8,7 @@ tags:
 
 ## Links
 
-Hörbar auf [Spotify](), [YouTube](), [Bandcamp]() und vielen anderen Streaming-Anbietern.
+Hörbar auf [Spotify](https://open.spotify.com/album/4dKmVaUiX5vQHefWZtzxZD?si=N9DjhLMJSu-E1zUOL2CoOQ) und vielen anderen Streaming-Anbietern. Bandcamp folgt!
 
 Videos gibt es zu auf YouTube zu [Alltag Pt. 1](https://www.youtube.com/watch?v=BFollN2Y7pU) und [Arschloch](https://www.youtube.com/watch?v=8q2gAtEAYek).
 
