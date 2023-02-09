@@ -1,4 +1,4 @@
-baseURL = 'http://www.nixzusagen.de'
+baseURL = 'https://www.nixzusagen.de'
 languageCode = 'de-de'
 title = 'nixzusagen'
 theme = 'nixzusagen'
