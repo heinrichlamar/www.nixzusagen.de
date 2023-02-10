@@ -59,6 +59,9 @@
     <loc>https://www.nixzusagen.de/posts/gut-gemeinter-konsens/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.nixzusagen.de/about/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://www.nixzusagen.de/categories/</loc>
   </url>
 </urlset>
