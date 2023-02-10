@@ -8,7 +8,7 @@ tags:
 
 ## Links
 
-Hörbar auf [Spotify](https://open.spotify.com/album/4dKmVaUiX5vQHefWZtzxZD?si=N9DjhLMJSu-E1zUOL2CoOQ) und vielen anderen Streaming-Anbietern. Bandcamp folgt!
+Hörbar auf [Spotify](https://open.spotify.com/album/4dKmVaUiX5vQHefWZtzxZD?si=N9DjhLMJSu-E1zUOL2CoOQ), [YouTube](https://www.youtube.com/playlist?list=OLAK5uy_l5yU7GGbNVmhSut_6wQKlslktuZDXaR_U) und vielen anderen Streaming-Anbietern. Bandcamp folgt!
 
 Videos gibt es zu auf YouTube zu [Alltag Pt. 1](https://www.youtube.com/watch?v=BFollN2Y7pU) und [Arschloch](https://www.youtube.com/watch?v=8q2gAtEAYek).
 
